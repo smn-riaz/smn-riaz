@@ -4,6 +4,6 @@
 <li>💻I'm still learing web developemnt with Programming Hero</li>
 <li>🤖Always Try to learn new technology</li>
 <br>
-<h2>Using languages and tools</h2>
-![image](https://user-images.githubusercontent.com/76748226/116724988-29551e00-aa03-11eb-903e-d700d175d762.png)
+<h3>Using languages and tools</h3>
+<img src="https://user-images.githubusercontent.com/76748226/116724988-29551e00-aa03-11eb-903e-d700d175d762.png">
 
