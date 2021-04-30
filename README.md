@@ -5,5 +5,5 @@
 <li>🤖Always Try to learn new technology</li>
 <br>
 <h3>Using languages and tools</h3>
-<img src="https://user-images.githubusercontent.com/76748226/116724988-29551e00-aa03-11eb-903e-d700d175d762.png">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 
