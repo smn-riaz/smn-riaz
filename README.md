@@ -13,5 +13,5 @@
 <a href="https://shahman-riaz.netlify.app/">Shahman Riaz</a>
 <br>
 <h3>My Recent Projects:</h3>
-<li><a href="https://medi-care-hospital.web.app/">MediCare Hospital</a></li>
-<li><a href="https://cleaning-helper.web.app/">Cleaning Helper</a></li>
+<li><a href="https://medi-care-hospital.web.app/" target="_blank">MediCare Hospital</a></li>
+<li><a href="https://cleaning-helper.web.app/" target="_blank">Cleaning Helper</a></li>
