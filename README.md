@@ -13,4 +13,4 @@
 <a href="https://shahman-riaz.netlify.app/">Shahman Riaz</a>
 <br>
 <h3>My Recent Projects:</h3>
--[Medicare](https://medi-care-hospital.web.app/)
+[MediCare](https://medi-care-hospital.web.app)
