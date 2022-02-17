@@ -1,4 +1,4 @@
-<h2>Hi, I'm <a href="https://shahman-riaz.netlify.app/">Shahman Riaz</a></h2>
+<h2>Hi, I'm <a href="https://shahman-riaz.web.app/">Shahman Riaz</a></h2>
 <h4>Full-Stack (MERN Stack) Web Developer | React Native App Developer</h4>
 <hr>
 
