@@ -1,13 +1,13 @@
-<h2 align='center'> Hi, this is <a href="https://shahman-riaz.web.app/"><b>Shahman Riaz</b></a> :wave:</h2>
+<h1 align='center'> Hi, this is <a href="https://shahman-riaz.web.app/"><b>Shahman Riaz</b></a> :wave:</h1>
 <h2 align='center'><img src="https://user-images.githubusercontent.com/76748226/174168550-bf815dc9-a013-426d-9189-d031da021ebb.png" height='30' width='30'/> I'm a <sup>**  Front-End Web Developer  | 💻 |   MERN Stack Web Developer  | 📱 |   React Native App Developer **</sup></h2>
 <p align='center'><img width='40%' height='40%' src='https://shahman-riaz.web.app/static/media/skillPic.18f0fc82.gif'></p>  
 
-### 🤝 Connect with Me :
+## 🤝 Connect with Me :
 <p><a href="https://www.linkedin.com/in/shahman-riaz/" style="padding: 20px"><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href="mailto:shahmanriaz07@gmail.com"><img width='40' height='40' src=https://i.ibb.co/4pwYqpT/icons8-email-open-48.png'></a> <a href="https://www.facebook.com/shahman.riaz.00"><img width='40' height='40' src='https://i.ibb.co/hB2T8mL/facebook.png'></a> <a href="https://wa.me/+8801631214301" target="_blank"><img width='40' height='40' src='https://i.ibb.co/Dbs7sg9/icons8-whatsapp-48.png'></a> <a href="#"><img width='40' height='40' src='https://i.ibb.co/Q9Rq80S/twitter.png'></a> <a href="#"><img width='40' height='40' src='https://i.ibb.co/NZ7jg8J/icons8-instagram-48.png'></a> 
 </p> <br />
   
   
-  ### 💼 Technical Skills :
+  ## 💼 Technical Skills :
   <div>
    
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -33,14 +33,14 @@
   <br />
   
   
-  ### 👨🏻‍🎓 I am currently learning :
+  ## 👨🏻‍🎓 I am currently learning :
 - Python programming
 - React Native
   <br />
   <br />
   
 
-### 👨‍💻 I'm currently working on :
+## 👨‍💻 I'm currently working on :
 - Online Watch Shop (e-commerce website)
 - Food Delivery web App
 <br />
@@ -48,7 +48,7 @@
 
   
 
-  ### 📌 Last Projects: 
+  ## 📌 Last Projects: 
   - <a href="https://github.com/Shahman-Riaz/client-medihelp/"><b>MediHelp</b></a> (Hospital Management Web Application)
   - <a href="https://github.com/Shahman-Riaz/API-integration-restaurant/"><b>Food recipE.Hub</b></a> (API [themealdb.com] Integration Website "#food recipe")
   <br />
