@@ -3,8 +3,7 @@
 <p align='center'><img width='40%' height='40%' src='https://shahman-riaz.web.app/static/media/skillPic.18f0fc82.gif'></p>
 
 ### Connect with Me:
-<img src='![linkedin](https://user-images.githubusercontent.com/76748226/174142718-8dd33644-5984-45b0-b28c-f737278fe2f2.png)
-'>
+<p><a href=""><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href=""><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href=""><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href=""><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href=""><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a></p>
 
 
 
