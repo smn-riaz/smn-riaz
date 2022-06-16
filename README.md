@@ -8,7 +8,7 @@
 
 ### 👨‍💻 I'm working on :
 - Online Watch Shop (e-commerce website)
-- Food Deliver web App
+- Food Delivery web App
 <br />
   
 ### 👨🏻‍🎓 I'm learning :
