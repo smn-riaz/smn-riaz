@@ -37,7 +37,7 @@
 - Python programming
 - React Native
   <br />
-  
+  <br />
   
 
 ### 👨‍💻 I'm currently working on :
