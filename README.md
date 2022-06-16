@@ -42,8 +42,8 @@
   <br />
   
   ### Last Projects: 
-  - <a href="https://github.com/Shahman-Riaz/client-medihelp/"><b>MediHelp (Hospital Management Web Application)</b></a>
-  - <a href="https://github.com/Shahman-Riaz/API-integration-restaurant/"><b>Food recipE.Hub (API Integration Website "food recipe")</b></a>
+  - <a href="https://github.com/Shahman-Riaz/client-medihelp/"><b>MediHelp</b></a> (Hospital Management Web Application)
+  - <a href="https://github.com/Shahman-Riaz/API-integration-restaurant/"><b>Food recipE.Hub</b></a> (API [themealdb.com] Integration Website "#food recipe")
  
   <br />   <br />   <br />
 
