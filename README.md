@@ -20,7 +20,7 @@
   
   
   <br />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?shahman-riaz)](https://github.com/anuraghazra/github-readme-stats)
+ 
   
 
 <h2 align='right'><a href="https://shahman-riaz.web.app/"><b>🤖 $#αh10-3aη  π√-1@z</b></a></h2>
