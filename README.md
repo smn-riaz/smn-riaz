@@ -38,6 +38,12 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
 </div>
+  
+  <br />
+  
+  ### Last Projects: 
+  - <a href="https://github.com/Shahman-Riaz/client-medihelp/"><b>MediHelp (Hospital Management Web Application)</b></a>
+  - <a href="https://github.com/Shahman-Riaz/API-integration-restaurant/"><b>Food recipE.Hub (API Integration Website "food recipe")</b></a>
  
   <br />   <br />   <br />
 
