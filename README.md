@@ -17,7 +17,7 @@
   <br />
   
 ### 💼 Technical Skills :
-  
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,mongodb,express,ts,python,firebase,sql)
   
   <br />
  
