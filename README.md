@@ -3,7 +3,7 @@
 <p align='center'><img width='40%' height='40%' src='https://shahman-riaz.web.app/static/media/skillPic.18f0fc82.gif'></p>
 
 ### Connect with Me:
-<p><a href="https://www.linkedin.com/in/shahman-riaz/"><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href="mailto:shahmanriaz07@gmail.com"><img width='40' height='40' src='https://i.ibb.co/9q3v8mh/envelope.png'></a> <a href=""><img width='40' height='40' src='https://i.ibb.co/hB2T8mL/facebook.png'></a> <a href="https://www.facebook.com/shahman.riaz.00"><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href=""><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a></p>
+<p><a href="https://www.linkedin.com/in/shahman-riaz/"><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href="mailto:shahmanriaz07@gmail.com"><img width='40' height='40' src='https://i.ibb.co/9q3v8mh/envelope.png'></a> <a href=""><img width='40' height='40' src='https://i.ibb.co/hB2T8mL/facebook.png'></a> <a href="https://www.facebook.com/shahman.riaz.00"><img width='40' height='40' src='https://i.ibb.co/cv9PjPm/medium.png'></a> <a href="#"><img width='40' height='40' src='https://i.ibb.co/Q9Rq80S/twitter.png'></a> <a href="#"><img width='40' height='40' src='https://i.ibb.co/NZ7jg8J/icons8-instagram-48.png'></a> </p>
 
 
 
