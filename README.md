@@ -2,7 +2,7 @@
 <h2 align='center'><img src="https://user-images.githubusercontent.com/76748226/174168550-bf815dc9-a013-426d-9189-d031da021ebb.png" height='30' width='30'/> I'm a <sup>**  Front-End Web Developer  | 💻 |   MERN Stack Web Developer  | 📱 |   React Native App Developer **</sup></h2>
 <p align='center'><img width='40%' height='40%' src='https://shahman-riaz.web.app/static/media/skillPic.18f0fc82.gif'></p> 
 
-![](https://komarev.com/ghpvc/?username=shahman-riaz&color=blue)
+
 
 ## 🤝 Connect with Me :
 <p><a href="https://www.linkedin.com/in/shahman-riaz/" style="padding: 20px"><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href="mailto:shahmanriaz07@gmail.com"><img width='40' height='40' src=https://i.ibb.co/4pwYqpT/icons8-email-open-48.png'></a> <a href="https://www.facebook.com/shahman.riaz.00"><img width='40' height='40' src='https://i.ibb.co/hB2T8mL/facebook.png'></a> <a href="https://wa.me/+8801631214301" target="_blank"><img width='40' height='40' src='https://i.ibb.co/Dbs7sg9/icons8-whatsapp-48.png'></a> <a href="#"><img width='40' height='40' src='https://i.ibb.co/Q9Rq80S/twitter.png'></a> <a href="#"><img width='40' height='40' src='https://i.ibb.co/NZ7jg8J/icons8-instagram-48.png'></a> 
@@ -57,5 +57,7 @@
  
   ### [`All Projects Link`](https://github.com/Shahman-Riaz?tab=repositories)
   <br />   <br />   <br />
+  
+  ![](https://komarev.com/ghpvc/?username=shahman-riaz&color=blue)
 
 <h2 align='right'><a href="https://shahman-riaz.web.app/"><b>🤖 $#αh10-3aη  π√-1@z</b></a></h2>
