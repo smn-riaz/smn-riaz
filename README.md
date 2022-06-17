@@ -1,4 +1,4 @@
-<h1 align='center'> Hi :wave: , this is <a href="https://shahman-riaz.web.app/"><b>Shahman Riaz</b></a> </h1>
+<h1 align='center'> Hi:wave: this is <a href="https://shahman-riaz.web.app/"><b>Shahman Riaz</b></a> </h1>
 <h2 align='center'><img src="https://user-images.githubusercontent.com/76748226/174168550-bf815dc9-a013-426d-9189-d031da021ebb.png" height='30' width='30'/> I'm a <sup>**  Front-End Web Developer  | 💻 |   MERN Stack Web Developer  | 📱 |   React Native App Developer **</sup></h2>
 <p align='center'><img width='40%' height='40%' src='https://shahman-riaz.web.app/static/media/skillPic.18f0fc82.gif'></p>  
 
