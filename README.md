@@ -36,8 +36,8 @@
   
   
   ## 👨🏻‍🎓 I am currently learning :
-- Python programming
-- React Native
+- <a href="https://github.com/Shahman-Riaz/LearnPracticePython"><b>Python Programming</b></a>
+- <a href="https://github.com/Shahman-Riaz/LearnReactNative"><b>React Native</b></a>
   <br />
   <br />
   
