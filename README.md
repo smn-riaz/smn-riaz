@@ -4,7 +4,7 @@
 
 
 
-## 🤝 Connect with Me :
+## 🤝 Connect with Me <sup>( <a href="https://shahman-riaz.web.app/"><b>portfolio</b></a> )</sup>: 
 <p><a href="https://www.linkedin.com/in/shahman-riaz/" style="padding: 20px"><img width='40' height='40' src='https://i.ibb.co/kXWB7pG/linkedin.png'></a> <a href="mailto:shahmanriaz07@gmail.com"><img width='40' height='40' src=https://i.ibb.co/4pwYqpT/icons8-email-open-48.png'></a> <a href="https://www.facebook.com/shahman.riaz.00"><img width='40' height='40' src='https://i.ibb.co/hB2T8mL/facebook.png'></a> <a href="https://wa.me/+8801631214301" target="_blank"><img width='40' height='40' src='https://i.ibb.co/Dbs7sg9/icons8-whatsapp-48.png'></a> <a href="#"><img width='40' height='40' src='https://i.ibb.co/Q9Rq80S/twitter.png'></a> <a href="#"><img width='40' height='40' src='https://i.ibb.co/NZ7jg8J/icons8-instagram-48.png'></a> 
 </p> <br />
   
