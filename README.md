@@ -16,7 +16,7 @@
    </td>
    <td >
   
-  <p align='right'><img width='80%' height='40%' src='https://shahman-riaz.web.app/static/media/skillPic.18f0fc82.gif'></p> 
+  <p align='right'><img width='90%' height='50%' src='https://shahman-riaz.web.app/static/media/skillPic.18f0fc82.gif'></p> 
   
   
   </td>
