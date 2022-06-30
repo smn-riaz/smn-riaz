@@ -1,5 +1,5 @@
 <h1 align='center'> Hi:wave: this is <a href="https://shahman-riaz.web.app/"><b>Shahman Riaz</b></a> </h1>
-<h2 align='center'><img src="https://user-images.githubusercontent.com/76748226/174168550-bf815dc9-a013-426d-9189-d031da021ebb.png" height='30' width='30'/> I'm a <sup>**  Front-End Web Developer  | 💻 |   MERN Stack Web Developer  | 📱 |   React Native App Developer **</sup></h2>
+<h2 align='center'><img src="https://user-images.githubusercontent.com/76748226/174168550-bf815dc9-a013-426d-9189-d031da021ebb.png" height='30' width='30'/> I'm a <sup>**  Front-End Web Developer  | 💻 |   MERN Stack Web Developer  **</sup></h2>
 
 
 
