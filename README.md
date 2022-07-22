@@ -62,23 +62,24 @@
   
   
   ## 👨🏻‍🎓 I am currently learning :
-- <a href="https://github.com/Shahman-Riaz/LearnPracticePython"><b>Python Programming</b></a>
-- <a href="https://github.com/Shahman-Riaz/LearnReactNative"><b>React Native</b></a>
+- <a href="https://github.com/Shahman-Riaz/LearnReactNative"><b>C++</b></a>
+- <a href="https://github.com/Shahman-Riaz/LearnPracticePython"><b>Python</b></a>
   <br />
   <br />
   
 
 ## 👨‍💻 I'm currently working on :
-- Online Watch Shop (e-commerce website)
-- Food Delivery web App
+- An E-commerce Website
+- Messaging Web Application
 <br />
   
 
   
 
   ## 📌 Last Projects: 
-  - <a href="https://github.com/Shahman-Riaz/client-medihelp/"><b>MediHelp</b></a> (Hospital Management Web Application)
+  - <a href="https://github.com/Shahman-Riaz/client-medihelp/"><b>MediHelp (Hospital Management Web Application)</b></a> #React #Node.js #Express #MongoDB #Bootstrap
   - <a href="https://github.com/Shahman-Riaz/API-integration-restaurant/"><b>Food recipE.Hub</b></a> (API [themealdb.com] Integration Website "#food recipe")
+  - <a href="https://github.com/Shahman-Riaz/cool-drink-tailwind-rest-api"><b>Cool Drink</b></a> (#Tailwind #REST API #React Router)
   <br />
  
   ### [`All Projects Link`](https://github.com/Shahman-Riaz?tab=repositories)
