@@ -77,8 +77,8 @@
   
 
   ## 📌 Last Projects: 
-  - <a href="https://github.com/Shahman-Riaz/client-medihelp/"><b>MediHelp (Hospital Management Web Application)</b></a> #React #Node.js #Express #MongoDB #Bootstrap
-  - <a href="https://github.com/Shahman-Riaz/cool-drink-tailwind-rest-api"><b>Cool Drink</b></a> (#Tailwind #REST API #React.js #React Router) || <a href="https://github.com/Shahman-Riaz/API-integration-restaurant/"><b>Food recipE.Hub</b></a> (#React.js #REST API #Bootstrap #React Router)
+  - <a href="https://github.com/Shahman-Riaz/client-medihelp/"><b>MediHelp (Hospital Management Web Application)</b></a>--<b>#React #Node.js #Express #MongoDB #Bootstrap</b>
+  - <a href="https://github.com/Shahman-Riaz/cool-drink-tailwind-rest-api"><b>Cool Drink</b></a>--<b>#Tailwind #REST API #React.js #React Router</b> || <a href="https://github.com/Shahman-Riaz/API-integration-restaurant/"><b>Food recipE.Hub</b></a>--<b>#React.js #REST API #Bootstrap #React Router</b>
   <br />
  
   ### [`All Projects Link`](https://github.com/Shahman-Riaz?tab=repositories)
