@@ -58,8 +58,7 @@
   </p>
   </div>
   
-   - <a href="https://github.com/Shahman-Riaz/competitive-programming--.cpp---python"><b>Competitive Programming Repository</b></a>
-   - <a href="https://github.com/Shahman-Riaz/contest-competitive-programming--.cpp--.py"><b>Contest Competitive Programming Repository</b></a>
+   - <a href="https://github.com/Shahman-Riaz/Competitive-Programming"><b>Competitive Programming Repository</b></a>
   
   <br />
   
