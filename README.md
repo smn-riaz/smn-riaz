@@ -69,7 +69,6 @@
   
   ## 👨🏻‍🎓 I am currently learning :
 - <a href="https://github.com/Shahman-Riaz/LearnReactNative"><b>C++</b></a>
-- <a href="https://github.com/Shahman-Riaz/LearnPracticePython"><b>Python</b></a>
   <br />
   <br />
   
