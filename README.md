@@ -89,6 +89,6 @@
   ### [`All Projects Link`](https://github.com/Shahman-Riaz?tab=repositories)
   <br />
   
-  ![Shahman Riaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahman-riaz&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahman-riaz&layout=compact)](https://github.com/shahman-riaz/github-readme-stats)  ![](https://komarev.com/ghpvc/?username=shahman-riaz&color=blue) 
+  ![Shahman Riaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=smn-riaz&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smn-riaz&layout=compact)](https://github.com/smn-riaz/github-readme-stats)  ![](https://komarev.com/ghpvc/?username=smn-riaz&color=blue) 
 
 <h2 align='right'><a href="https://shahman-riaz.web.app/"><b>🤖 $#αh10-3aη  π√-1@z</b></a></h2>
