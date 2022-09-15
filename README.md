@@ -68,14 +68,13 @@
   
   
   ## 👨🏻‍🎓 I am currently learning :
-- <a href="https://github.com/Shahman-Riaz/LearnReactNative"><b>C++</b></a>
+- <a href=""><b>Python</b></a>
   <br />
   <br />
   
 
 ## 👨‍💻 I'm currently working on :
 - <a href="https://github.com/Shahman-Riaz/E-Brand-Shop"><b>E-Brand-Shop</b></a> (An E-commerce Website)
-- Messaging Web Application
 - <a href="https://github.com/Shahman-Riaz/Vromon-tour"><b>Vromon Tour</b></a> (Hotel Booking Application)
 <br />
   
