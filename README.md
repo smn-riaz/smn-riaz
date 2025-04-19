@@ -1,84 +1,83 @@
-<h1 align="center">Hi 👋, I'm <a href="https://shahman-riaz.web.app/" target="_blank"><b>Shahman Riaz</b></a></h1>
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/76748226/174168550-bf815dc9-a013-426d-9189-d031da021ebb.png" height="30" width="30"/>
-  I'm a <sup><strong> Front-End Web Developer | 💻 | MERN Stack Web Developer </strong></sup>
-</h2>
+<!-- README.md for Shahman Riaz -->
+
+<h1 align="center">Hi 👋, I'm <a href="https://shahman-riaz.web.app" target="_blank">Shahman Riaz</a></h1>
+
+<p align="center">
+  🚀 Front-End Developer | MERN Stack Developer | Full Stack Developer | Tech Explorer 🧠 <br>
+  💻 Turning coffee ☕ into responsive web applications
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shahman-Riaz">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;MERN+Stack+Developer;Full+Stack+Developer;Lifelong+Learner+%F0%9F%93%9A;Code.+Create.+Repeat." alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h2>🤝 Connect with Me <sup>(<a href="https://shahman-riaz.web.app/">Portfolio</a>)</sup> :</h2>
-      <p>
-        <a href="https://www.linkedin.com/in/shahman-riaz/" target="_blank">
-          <img width="40" height="40" src="https://i.ibb.co/kXWB7pG/linkedin.png" alt="LinkedIn"/>
-        </a>
-        <a href="mailto:shahmanriaz07@gmail.com">
-          <img width="40" height="40" src="https://i.ibb.co/4pwYqpT/icons8-email-open-48.png" alt="Email"/>
-        </a>
-        <a href="https://www.facebook.com/smn.riaz" target="_blank">
-          <img width="40" height="40" src="https://i.ibb.co/hB2T8mL/facebook.png" alt="Facebook"/>
-        </a>
-        <a href="https://wa.me/+8801631214301" target="_blank">
-          <img width="40" height="40" src="https://i.ibb.co/Dbs7sg9/icons8-whatsapp-48.png" alt="WhatsApp"/>
-        </a>
-        <a href="#">
-          <img width="40" height="40" src="https://i.ibb.co/Q9Rq80S/twitter.png" alt="Twitter"/>
-        </a>
-        <a href="https://www.instagram.com/smn.riaz" target="_blank">
-          <img width="25" height="30" src="https://i.ibb.co/NZ7jg8J/icons8-instagram-48.png" alt="Instagram"/>
-        </a>
-      </p>
-    </td>
-    <td align="right">
-      <img width="90%" src="https://shahman-riaz.web.app/static/media/skillPic.18f0fc82.gif" alt="Skills GIF"/>
-    </td>
-  </tr>
-</table>
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="mailto:shahmanriaz07@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shahman-riaz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/smn.riaz" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://wa.me/+8801631214301" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.instagram.com/smn.riaz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://shahman-riaz.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 
 ---
 
-## 💼 Technical Skills
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" width="40" height="40"/> 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,express,mongodb,firebase,mysql,tailwind,bootstrap,materialui,git,github,heroku,python,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smn-riaz&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smn-riaz&theme=tokyonight&hide_border=true" width="47%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smn-riaz&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </div>
 
 ---
 
-## 🧠 Problem Solving
-- Explore my [Competitive Programming Repository](https://github.com/Shahman-Riaz/Competitive-Programming)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smn-riaz&theme=gruvbox&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 📌 All Repositories
-🔗 [Explore All My Projects](https://github.com/Shahman-Riaz?tab=repositories)
+## 🚀 Projects Showcase
+
+📌 Check out all my repositories → [**GitHub Projects**](https://github.com/Shahman-Riaz?tab=repositories)
+
+🔍 Notable:
+- **[Competitive Programming](https://github.com/Shahman-Riaz/Competitive-Programming)** – Logic & algorithms
+- **MERN Web Apps** – Real-world tools built with modern JavaScript
+- **Firebase Auth Projects** – Authentication, Firestore, Hosting
 
 ---
 
-## 📊 GitHub Stats
+## 💬 Quote to Code By
 
-![Shahman Riaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=smn-riaz&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smn-riaz&layout=compact)](https://github.com/smn-riaz/github-readme-stats)  
-![Profile Views](https://komarev.com/ghpvc/?username=smn-riaz&color=blue)
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 
 ---
 
-<h2 align="right"><a href="https://shahman-riaz.web.app/" target="_blank"><b>🤖 $#αh10-3aη π√-1@z</b></a></h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smn-riaz&label=Profile+Views&color=blue&style=flat" alt="smn-riaz" />
+</p>
+
+<h3 align="center">
+  Made with ❤️ by <a href="https://shahman-riaz.web.app/" target="_blank">Shahman Riaz</a>
+</h3>
