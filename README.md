@@ -23,7 +23,7 @@
 
 🎓 Over the past 3 years, I've explored the world of programming — diving deep into frontend and backend development, while sharpening my problem-solving skills along the way.  
 💪 I stay consistent with coding challenges to keep my mind sharp and adaptable.  
-🌱 I'm on a continuous journey to master full stack development.  
+🌱 I'm on a continuous journey to master Full Stack development.  
 💡 My ultimate goal is to become an entrepreneur, creating impactful tech solutions that address real-world challenges.
 
 ---
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,express,mongodb,firebase,mysql,tailwind,bootstrap,materialui,git,github,vscode" />
@@ -48,7 +48,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smn-riaz&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
@@ -61,7 +61,7 @@
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Last & Best Projects
 
 <p align="center">
   <a href="https://github.com/smn-riaz/medimart-6-mediCommerce-client">
