@@ -68,8 +68,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=medimart-6-mediCommerce-client&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/smn-riaz/bicycle-store-frontend-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=bicycle-store-frontend-4&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/smn-riaz/bicycle-store-backend-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=bicycle-store-backend-4&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client">
