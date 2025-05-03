@@ -1,8 +1,9 @@
 <!-- README.md for Shahman Riaz -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/138411250-8d998d65-e5c1-4457-bcf1-25d6d5b0d49e.png" alt="cover image" />
+  <img src="https://github.com/user-attachments/assets/db2baa6b-b050-4735-9236-70110676d962" alt="cover image" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <a href="https://shahmanriaz.vercel.app" target="_blank">Shahman Riaz</a></h1>
 
@@ -20,9 +21,9 @@
 
 ## 🧠 About Me
 
-🎓 Over the past 3 years, I've explored the world of programming — diving deep into frontend and backend development, while sharpening my problem-solving skills along the way. <br>
-💪 I stay consistent with coding challenges to keep my mind sharp and adaptable. <br>
-🌱 I'm on a continuous journey to master full stack development. <br>
+🎓 Over the past 3 years, I've explored the world of programming — diving deep into frontend and backend development, while sharpening my problem-solving skills along the way.  
+💪 I stay consistent with coding challenges to keep my mind sharp and adaptable.  
+🌱 I'm on a continuous journey to master full stack development.  
 💡 My ultimate goal is to become an entrepreneur, creating impactful tech solutions that address real-world challenges.
 
 ---
@@ -75,7 +76,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=cosmetics-ecommerce-client&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
 
 ---
 
