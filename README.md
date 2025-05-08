@@ -4,7 +4,6 @@
   <img src="https://github.com/user-attachments/assets/db2baa6b-b050-4735-9236-70110676d962" alt="cover image" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm <a href="https://shahmanriaz.vercel.app" target="_blank">Shahman Riaz</a></h1>
 
 <p align="center">
@@ -63,19 +62,51 @@
 
 ## 📌 Last & Best Projects
 
-<p align="center">
-  <a href="https://github.com/smn-riaz/medimart-6-mediCommerce-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=medimart-6-mediCommerce-client&theme=tokyonight&hide_border=true" />
-  </a>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/smn-riaz/medimart-6-mediCommerce-client" title="MediCommerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=medimart-6-mediCommerce-client&theme=tokyonight&hide_border=true" alt="MediMart" />
+        <h3>MediCommerce - Medical Ecommerce</h3>
+        <p>An eCommerce platform for medical products, allowing users to browse, purchase, and review medical supplies.</p>
+        <p><strong>Technologies:</strong> React, Node.js, Express, MongoDB</p>
+        <p><strong>Core Features:</strong> Secure payments, user authentication, real-time inventory, and product reviews.</p>
+        <p>
+          <a href="https://medimart-client-live.com" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo"/></a>
+          <a href="https://github.com/smn-riaz/medimart-6-mediCommerce-client" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+        </p>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/smn-riaz/bicycle-store-frontend-4" title="Bicycle Store">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=bicycle-store-frontend-4&theme=tokyonight&hide_border=true" alt="Bicycle Store" />
+        <h3>Bicycle Store</h3>
+        <p>Online store for bicycle sales with features for searching, filtering, and purchasing bicycles.</p>
+        <p><strong>Technologies:</strong> React, Redux, TailwindCSS, Node.js</p>
+        <p><strong>Core Features:</strong> Bicycle catalog, user authentication, shopping cart, and order management.</p>
+        <p>
+          <a href="https://bicycle-store-live.com" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo"/></a>
+          <a href="https://github.com/smn-riaz/bicycle-store-frontend-4" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+        </p>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client" title="Cosmetics Ecommerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=cosmetics-ecommerce-client&theme=tokyonight&hide_border=true" alt="Cosmetics Ecommerce" />
+        <h3>Cosmetics Ecommerce</h3>
+        <p>Cosmetics product store with integrated user reviews, product search, and purchase functionality.</p>
+        <p><strong>Technologies:</strong> React, Node.js, Express, MongoDB</p>
+        <p><strong>Core Features:</strong> Product search, user authentication, reviews, and shopping cart functionality.</p>
+        <p>
+          <a href="https://cosmetics-store-live.com" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo"/></a>
+          <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+        </p>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/smn-riaz/bicycle-store-backend-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=bicycle-store-backend-4&theme=tokyonight&hide_border=true" />
-  </a>
 
-  <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=cosmetics-ecommerce-client&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 
