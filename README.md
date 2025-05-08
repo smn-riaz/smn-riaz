@@ -100,13 +100,13 @@
     </td>
     <td align="center" width="33%" style="padding: 15px;">
       <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client" title="Cosmetics E-commerce" style="text-decoration: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=cosmetics-ecommerce-client&theme=tokyonight&hide_border=true" alt="Cosmetics Ecommerce" />
-        <h3 style="font-size: 1.2rem; font-weight: bold; margin-top: 10px;">Cosmetics E-commerce - Best E-commerce platform for cosmetics, skin care products.</h3>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=cosmetics-ecommerce-client&theme=tokyonight&hide_border=true" alt="Cosmetics E-commerce" />
+        <h3 style="font-size: 1.2rem; font-weight: bold; margin-top: 10px;">Cosmetics E-commerce - Best E-commerce platform for cosmetics, and skincare products.</h3>
         <p style="font-size: 0.95rem; color: #555;">Cosmetics product store with integrated user reviews, product search, and purchase functionality.</p>
         <p style="font-size: 0.95rem; font-weight: bold;">Technologies: React, Redux, Node.js, Express, MongoDB, Mongoose</p>
         <p style="font-size: 0.95rem; font-weight: bold;">Core Features: Product search, user authentication, reviews, and shopping cart functionality.</p>
         <p>
-          <a href="https://cosmetics-store-live.com" target="_blank" style="text-decoration: none;">
+          <a href="https://cosmetics-ecommerce.vercel.app" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo" />
           </a>
           <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client" target="_blank" style="text-decoration: none;">
