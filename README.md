@@ -64,47 +64,60 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/smn-riaz/medimart-6-mediCommerce-client" title="MediCommerce">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=medimart-6-mediCommerce-client&theme=tokyonight&hide_border=true" alt="MediMart" />
-        <h3>MediCommerce - Medical Ecommerce</h3>
-        <p>An eCommerce platform for medical products, allowing users to browse, purchase, and review medical supplies.</p>
-        <p><strong>Technologies:</strong> React, Node.js, Express, MongoDB</p>
-        <p><strong>Core Features:</strong> Secure payments, user authentication, real-time inventory, and product reviews.</p>
+    <td align="center" width="33%" style="padding: 15px;">
+      <a href="https://github.com/smn-riaz/medicommerce-frontend" title="MediCommerce" style="text-decoration: none;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=medicommerce-frontend&theme=tokyonight&hide_border=true" alt="MediCommerce" />
+        <h3 style="font-size: 1.2rem; font-weight: bold; margin-top: 10px;">MediCommerce - Full-Stack E-commerce for Healthcare Products</h3>
+        <p style="font-size: 0.95rem; color: #555;">An eCommerce platform for medical products, allowing users to browse, purchase, and review medical supplies.</p>
+        <p style="font-size: 0.95rem; font-weight: bold;">Technologies: Next.js, Typescript, Tailwind CSS, Redux, Node.js, Express, MongoDB, Mongoose</p>
+        <p style="font-size: 0.95rem; font-weight: bold;">Core Features: Secure payments, user authentication, real-time inventory, and product reviews.</p>
         <p>
-          <a href="https://medimart-client-live.com" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo"/></a>
-          <a href="https://github.com/smn-riaz/medimart-6-mediCommerce-client" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+          <a href="https://medicommerce-client.vercel.app" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo" />
+          </a>
+          <a href="https://github.com/smn-riaz/medicommerce-frontend" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github" alt="GitHub Repo" />
+          </a>
         </p>
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/smn-riaz/bicycle-store-frontend-4" title="Bicycle Store">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=bicycle-store-frontend-4&theme=tokyonight&hide_border=true" alt="Bicycle Store" />
-        <h3>Bicycle Store</h3>
-        <p>Online store for bicycle sales with features for searching, filtering, and purchasing bicycles.</p>
-        <p><strong>Technologies:</strong> React, Redux, TailwindCSS, Node.js</p>
-        <p><strong>Core Features:</strong> Bicycle catalog, user authentication, shopping cart, and order management.</p>
+    <td align="center" width="33%" style="padding: 15px;">
+      <a href="https://github.com/smn-riaz/cyclehouse-frontend" title="CycleHouse" style="text-decoration: none;">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=cyclehouse-frontend&theme=tokyonight&hide_border=true" alt="CycleHouse" />
+        <h3 style="font-size: 1.2rem; font-weight: bold; margin-top: 10px;">CycleHouse - Full-Stack E-commerce Platform for Bicycle Enthusiasts</h3>
+        <p style="font-size: 0.95rem; color: #555;">Online store for bicycle sales with features for searching, filtering, and purchasing bicycles.</p>
+        <p style="font-size: 0.95rem; font-weight: bold;">Technologies: React, Typescript, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose</p>
+        <p style="font-size: 0.95rem; font-weight: bold;">Core Features: Bicycle catalog, user authentication, shopping cart, and order management.</p>
         <p>
-          <a href="https://bicycle-store-live.com" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo"/></a>
-          <a href="https://github.com/smn-riaz/bicycle-store-frontend-4" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+          <a href="https://bicycle-store-assignment4-client.vercel.app" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo" />
+          </a>
+          <a href="https://github.com/smn-riaz/cyclehouse-frontend" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github" alt="GitHub Repo" />
+          </a>
         </p>
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client" title="Cosmetics Ecommerce">
+    <td align="center" width="33%" style="padding: 15px;">
+      <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client" title="Cosmetics E-commerce" style="text-decoration: none;">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=smn-riaz&repo=cosmetics-ecommerce-client&theme=tokyonight&hide_border=true" alt="Cosmetics Ecommerce" />
-        <h3>Cosmetics Ecommerce</h3>
-        <p>Cosmetics product store with integrated user reviews, product search, and purchase functionality.</p>
-        <p><strong>Technologies:</strong> React, Node.js, Express, MongoDB</p>
-        <p><strong>Core Features:</strong> Product search, user authentication, reviews, and shopping cart functionality.</p>
+        <h3 style="font-size: 1.2rem; font-weight: bold; margin-top: 10px;">Cosmetics E-commerce - Best E-commerce platform for cosmetics, skin care products.</h3>
+        <p style="font-size: 0.95rem; color: #555;">Cosmetics product store with integrated user reviews, product search, and purchase functionality.</p>
+        <p style="font-size: 0.95rem; font-weight: bold;">Technologies: React, Redux, Node.js, Express, MongoDB, Mongoose</p>
+        <p style="font-size: 0.95rem; font-weight: bold;">Core Features: Product search, user authentication, reviews, and shopping cart functionality.</p>
         <p>
-          <a href="https://cosmetics-store-live.com" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo"/></a>
-          <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+          <a href="https://cosmetics-store-live.com" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square&logo=appveyor" alt="Live Demo" />
+          </a>
+          <a href="https://github.com/smn-riaz/cosmetics-ecommerce-client" target="_blank" style="text-decoration: none;">
+            <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github" alt="GitHub Repo" />
+          </a>
         </p>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
