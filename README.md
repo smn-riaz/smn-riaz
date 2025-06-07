@@ -60,7 +60,7 @@
 
 ---
 
-## 📌 Last & Best Projects
+## 📌 Last Projects
 
 <table>
   <tr>
