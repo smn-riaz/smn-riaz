@@ -135,6 +135,4 @@
   <img src="https://komarev.com/ghpvc/?username=smn-riaz&label=Profile+Views&color=blue&style=flat" alt="smn-riaz" />
 </p>
 
-<h3 align="center">
-  Made with ❤️ by <a href="https://shahmanriaz.vercel.app" target="_blank">Shahman Riaz</a>
-</h3>
+
