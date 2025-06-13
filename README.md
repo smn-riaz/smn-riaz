@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://shahmanriaz.vercel.app" target="_blank">Shahman Riaz</a></h1>
 
 <p align="center">
-  🚀 Front-End Developer | MERN Stack Developer | Tech Explorer 🧠 <br>
+  🚀 Full Stack Developer | MERN Stack Developer | Tech Explorer 🧠 <br>
 </p>
 
 <p align="center">
